@@ -31,3 +31,5 @@ API Documentation
 If the app connects to a server, you'll want a document enumerating the API endpoints it must hit. This should describe the expected data the client sends, along with the values returned by the server.
 
 A very nice approach on this is to have the server developer provide example curl usage and output for each endpoint. This lets the client developer instantly understand how a given API call should work which makes debugging unexpected behavior a lot easier.
+
+new
